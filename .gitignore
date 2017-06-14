@@ -17,3 +17,6 @@ fcm_django.egg-info
 
 # tox
 .tox
+
+# pypirc
+.pypirc
